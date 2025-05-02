@@ -1,0 +1,641 @@
+### Goal: around 400 calories, high fiber, low sugar
+### Recipe: Title: Chickpea Salad
+Ingredients:
+- 100g canned chickpeas
+- 50g cucumber
+- 50g tomatoes
+- 5g olive oil
+Instructions:
+1. Rinse chickpeas.
+2. Dice cucumber and tomatoes.
+3. Mix everything and drizzle olive oil.
+Nutrition: 400 calories, 3g sugar, 15g protein, 12g fat
+
+### Goal: around 500 calories, high protein, moderate fat
+### Recipe: Title: Beef Stir-Fry
+Ingredients:
+- 120g lean beef
+- 50g bell peppers
+- 30g onions
+- 5g sesame oil
+Instructions:
+1. Slice beef thinly.
+2. Stir-fry beef and vegetables in sesame oil.
+3. Serve hot.
+Nutrition: 500 calories, 4g sugar, 35g protein, 18g fat
+
+### Goal: around 350 calories, low carb, high fat
+### Recipe: Title: Avocado Egg Bowl
+Ingredients:
+- 1 avocado (150g)
+- 1 boiled egg
+- 5g lemon juice
+Instructions:
+1. Slice avocado and egg.
+2. Drizzle lemon juice over.
+3. Serve together.
+Nutrition: 350 calories, 2g sugar, 12g protein, 28g fat
+
+### Goal: around 450 calories, moderate carbs, high protein
+### Recipe: Title: Chicken Rice Bowl
+Ingredients:
+- 100g grilled chicken
+- 100g cooked brown rice
+- 30g green beans
+Instructions:
+1. Grill chicken.
+2. Steam green beans.
+3. Serve over brown rice.
+Nutrition: 450 calories, 3g sugar, 30g protein, 10g fat
+
+### Goal: around 300 calories, very low sugar, high fiber
+### Recipe: Title: Lentil Soup
+Ingredients:
+- 80g lentils
+- 50g carrots
+- 50g celery
+- 5g olive oil
+Instructions:
+1. Cook lentils with diced carrots and celery.
+2. Add olive oil before serving.
+Nutrition: 300 calories, 2g sugar, 20g protein, 7g fat
+
+### Goal: around 600 calories, high carb, low fat
+### Recipe: Title: Quinoa Bowl
+Ingredients:
+- 150g cooked quinoa
+- 100g mixed vegetables
+- 50g chickpeas
+Instructions:
+1. Cook quinoa.
+2. Mix with vegetables and chickpeas.
+3. Serve warm.
+Nutrition: 600 calories, 5g sugar, 20g protein, 8g fat
+
+### Goal: around 400 calories, moderate protein, low carb
+### Recipe: Title: Greek Yogurt Parfait
+Ingredients:
+- 200g Greek yogurt
+- 50g berries
+- 10g honey
+Instructions:
+1. Layer yogurt with berries and drizzle honey.
+2. Serve chilled.
+Nutrition: 400 calories, 10g sugar, 25g protein, 15g fat
+
+### Goal: around 500 calories, high fiber, moderate fat
+### Recipe: Title: Oatmeal Bowl
+Ingredients:
+- 100g oats
+- 200ml almond milk
+- 30g nuts
+Instructions:
+1. Cook oats in almond milk.
+2. Top with nuts.
+3. Serve warm.
+Nutrition: 500 calories, 5g sugar, 15g protein, 20g fat
+
+### Goal: around 350 calories, low sugar, high protein
+### Recipe: Title: Tuna Salad
+Ingredients:
+- 150g canned tuna
+- 50g lettuce
+- 10g olive oil
+Instructions:
+1. Mix tuna with chopped lettuce.
+2. Drizzle olive oil before serving.
+Nutrition: 350 calories, 1g sugar, 40g protein, 10g fat
+
+### Goal: around 450 calories, moderate carbs, low fat
+### Recipe: Title: Turkey Wrap
+Ingredients:
+- 100g turkey breast
+- Whole wheat wrap
+- Lettuce and tomato
+Instructions:
+1. Fill wrap with turkey and veggies.
+2. Roll and serve.
+Nutrition: 450 calories, 4g sugar, 30g protein, 8g fat
+
+### Goal: around 400 calories, high protein, moderate fat
+### Recipe: Title: Salmon and Asparagus
+Ingredients:
+- 100g salmon
+- 50g asparagus
+- 5g olive oil
+Instructions:
+1. Bake salmon and asparagus with olive oil.
+2. Serve hot.
+Nutrition: 400 calories, 2g sugar, 30g protein, 18g fat
+
+### Goal: around 500 calories, high fiber, low sugar
+### Recipe: Title: Black Bean Burrito
+Ingredients:
+- 100g black beans
+- 1 whole wheat tortilla
+- 50g lettuce
+- 20g salsa
+Instructions:
+1. Fill tortilla with beans, lettuce, and salsa.
+2. Roll and serve.
+Nutrition: 500 calories, 3g sugar, 20g protein, 12g fat
+
+### Goal: around 350 calories, low carb, high fat
+### Recipe: Title: Cottage Cheese Bowl
+Ingredients:
+- 100g cottage cheese
+- 30g walnuts
+- 50g strawberries
+Instructions:
+1. Mix cottage cheese with strawberries and walnuts.
+2. Serve chilled.
+Nutrition: 350 calories, 5g sugar, 25g protein, 20g fat
+
+### Goal: around 450 calories, balanced macros
+### Recipe: Title: Egg Veggie Scramble
+Ingredients:
+- 2 eggs
+- 50g spinach
+- 30g tomatoes
+- 5g olive oil
+Instructions:
+1. Scramble eggs with spinach and tomatoes in olive oil.
+2. Serve warm.
+Nutrition: 450 calories, 3g sugar, 20g protein, 25g fat
+
+### Goal: around 300 calories, high protein, very low sugar
+### Recipe: Title: Greek Yogurt Parfait
+Ingredients:
+- 150g Greek yogurt
+- 30g blueberries
+- 10g chia seeds
+Instructions:
+1. Layer yogurt, blueberries, and chia seeds.
+2. Serve immediately.
+Nutrition: 300 calories, 4g sugar, 20g protein, 10g fat
+
+### Goal: around 400 calories, high fiber, low fat
+### Recipe: Title: Oatmeal with Berries
+Ingredients:
+- 50g oats
+- 50g mixed berries
+- 200ml water
+Instructions:
+1. Cook oats with water.
+2. Top with berries.
+Nutrition: 400 calories, 6g sugar, 10g protein, 8g fat
+
+### Goal: around 500 calories, moderate carbs, high protein
+### Recipe: Title: Shrimp Quinoa Salad
+Ingredients:
+- 100g cooked shrimp
+- 100g quinoa
+- 30g cucumber
+Instructions:
+1. Cook quinoa.
+2. Toss shrimp and cucumber with quinoa.
+Nutrition: 500 calories, 2g sugar, 30g protein, 12g fat
+
+### Goal: around 350 calories, low sugar, high fiber
+### Recipe: Title: Sweet Potato Fries
+Ingredients:
+- 150g sweet potato
+- 5g olive oil
+- Pinch paprika
+Instructions:
+1. Slice sweet potato.
+2. Toss in olive oil and paprika.
+3. Bake at 200°C until crispy.
+Nutrition: 350 calories, 5g sugar, 5g protein, 12g fat
+
+### Goal: around 450 calories, low sugar, balanced macros
+### Recipe: Title: Turkey Wrap
+Ingredients:
+- 100g turkey slices
+- 1 whole wheat wrap
+- 30g spinach
+Instructions:
+1. Fill wrap with turkey and spinach.
+2. Roll and serve.
+Nutrition: 450 calories, 2g sugar, 30g protein, 15g fat
+
+### Goal: around 300 calories, high protein, low fat
+### Recipe: Title: Egg White Omelette
+Ingredients:
+- 3 egg whites
+- 30g mushrooms
+- 30g spinach
+- 5g olive oil
+Instructions:
+1. Cook egg whites with spinach and mushrooms.
+2. Serve hot.
+Nutrition: 300 calories, 1g sugar, 20g protein, 8g fat
+
+### Goal: around 400 calories, moderate carbs, high protein
+### Recipe: Title: Chicken Pita Pocket
+Ingredients:
+- 100g grilled chicken
+- 1 whole wheat pita
+- 30g cucumber
+Instructions:
+1. Fill pita with chicken and cucumber.
+2. Serve fresh.
+Nutrition: 400 calories, 2g sugar, 25g protein, 10g fat
+
+### Goal: around 500 calories, high fiber, low fat
+### Recipe: Title: Lentil Veggie Stew
+Ingredients:
+- 100g lentils
+- 50g carrots
+- 50g zucchini
+- 200ml vegetable broth
+Instructions:
+1. Cook lentils with broth and vegetables.
+2. Simmer until tender.
+Nutrition: 500 calories, 5g sugar, 20g protein, 8g fat
+
+### Goal: around 350 calories, low carb, high fat
+### Recipe: Title: Cheese and Nut Plate
+Ingredients:
+- 50g cheddar cheese
+- 30g almonds
+- 30g cucumber slices
+Instructions:
+1. Arrange cheese, nuts, and cucumber.
+2. Serve chilled.
+Nutrition: 350 calories, 3g sugar, 15g protein, 25g fat
+
+### Goal: around 450 calories, low sugar, high protein
+### Recipe: Title: Beef and Broccoli Stir-fry
+Ingredients:
+- 120g lean beef
+- 50g broccoli
+- 5g soy sauce
+Instructions:
+1. Stir-fry beef and broccoli with soy sauce.
+2. Serve warm.
+Nutrition: 450 calories, 2g sugar, 30g protein, 20g fat
+
+### Goal: around 300 calories, high fiber, moderate carbs
+### Recipe: Title: Apple Peanut Butter Snack
+Ingredients:
+- 1 medium apple
+- 20g peanut butter
+Instructions:
+1. Slice apple and spread peanut butter.
+2. Serve immediately.
+Nutrition: 300 calories, 10g sugar, 6g protein, 15g fat
+
+### Goal: around 400 calories, moderate carbs, low fat
+### Recipe: Title: Vegetable Stir-fry
+Ingredients:
+- 50g bell peppers
+- 50g zucchini
+- 50g carrots
+- 5g olive oil
+Instructions:
+1. Stir-fry all vegetables in olive oil.
+2. Serve hot.
+Nutrition: 400 calories, 5g sugar, 10g protein, 8g fat
+
+### Goal: around 500 calories, high protein, low sugar
+### Recipe: Title: Grilled Chicken Caesar Salad
+Ingredients:
+- 120g grilled chicken
+- 50g romaine lettuce
+- 20g Parmesan cheese
+- 10g Caesar dressing
+Instructions:
+1. Toss chicken with lettuce, cheese, and dressing.
+2. Serve fresh.
+Nutrition: 500 calories, 3g sugar, 40g protein, 18g fat
+
+### Goal: around 350 calories, very low sugar, moderate fat
+### Recipe: Title: Zucchini Noodles with Pesto
+Ingredients:
+- 100g zucchini noodles
+- 20g pesto
+Instructions:
+1. Toss zucchini noodles with pesto.
+2. Serve cold or slightly warmed.
+Nutrition: 350 calories, 2g sugar, 10g protein, 22g fat
+
+### Goal: around 450 calories, moderate carbs, high fiber
+### Recipe: Title: Chickpea Curry
+Ingredients:
+- 100g chickpeas
+- 50g tomatoes
+- 5g curry powder
+Instructions:
+1. Cook chickpeas with tomatoes and curry powder.
+2. Simmer and serve.
+Nutrition: 450 calories, 5g sugar, 20g protein, 12g fat
+
+### Goal: around 300 calories, low carb, high fat
+### Recipe: Title: Almond Butter Smoothie
+Ingredients:
+- 200ml almond milk
+- 20g almond butter
+- 30g spinach
+Instructions:
+1. Blend almond milk, almond butter, and spinach.
+2. Serve chilled.
+Nutrition: 300 calories, 3g sugar, 10g protein, 20g fat
+
+### Goal: around 400 calories, high protein, low sugar
+### Recipe: Title: Baked Cod with Vegetables
+Ingredients:
+- 120g cod fillet
+- 50g zucchini
+- 50g bell peppers
+- 5g olive oil
+Instructions:
+1. Bake cod and vegetables with olive oil.
+2. Serve hot.
+Nutrition: 400 calories, 2g sugar, 35g protein, 10g fat
+
+### Goal: around 500 calories, balanced macros
+### Recipe: Title: Chicken Couscous Salad
+Ingredients:
+- 100g cooked couscous
+- 100g grilled chicken
+- 30g cherry tomatoes
+Instructions:
+1. Mix couscous with chicken and tomatoes.
+2. Serve chilled.
+Nutrition: 500 calories, 3g sugar, 30g protein, 15g fat
+
+### Goal: around 350 calories, high fiber, low fat
+### Recipe: Title: Steamed Broccoli and Tofu
+Ingredients:
+- 100g firm tofu
+- 100g broccoli
+- 5g soy sauce
+Instructions:
+1. Steam tofu and broccoli.
+2. Drizzle with soy sauce.
+Nutrition: 350 calories, 2g sugar, 20g protein, 10g fat
+
+### Goal: around 450 calories, low sugar, moderate fat
+### Recipe: Title: Turkey Chili
+Ingredients:
+- 120g ground turkey
+- 50g kidney beans
+- 30g tomatoes
+Instructions:
+1. Cook turkey, beans, and tomatoes together.
+2. Simmer and serve.
+Nutrition: 450 calories, 3g sugar, 35g protein, 15g fat
+
+### Goal: around 300 calories, low carb, high fat
+### Recipe: Title: Avocado Tuna Salad
+Ingredients:
+- 100g tuna
+- 50g avocado
+- 10g lemon juice
+Instructions:
+1. Mix tuna with diced avocado and lemon juice.
+2. Serve chilled.
+Nutrition: 300 calories, 2g sugar, 25g protein, 18g fat
+
+### Goal: around 400 calories, moderate carbs, high protein
+### Recipe: Title: Greek Chicken Skewers
+Ingredients:
+- 120g chicken breast
+- 50g bell peppers
+- 5g olive oil
+- 5g lemon juice
+Instructions:
+1. Marinate chicken in lemon and olive oil.
+2. Skewer with peppers and grill.
+Nutrition: 400 calories, 2g sugar, 30g protein, 12g fat
+
+### Goal: around 500 calories, high fiber, low fat
+### Recipe: Title: Lentil Veggie Bowl
+Ingredients:
+- 100g lentils
+- 50g spinach
+- 30g carrots
+Instructions:
+1. Cook lentils.
+2. Mix with spinach and carrots.
+Nutrition: 500 calories, 5g sugar, 20g protein, 8g fat
+
+### Goal: around 350 calories, very low sugar, moderate fat
+### Recipe: Title: Zucchini and Cheese Omelet
+Ingredients:
+- 2 eggs
+- 50g zucchini
+- 20g shredded cheese
+Instructions:
+1. Cook eggs and zucchini.
+2. Add cheese and fold.
+Nutrition: 350 calories, 2g sugar, 20g protein, 22g fat
+
+### Goal: around 450 calories, balanced macros
+### Recipe: Title: Grilled Chicken Salad
+Ingredients:
+- 100g grilled chicken
+- 50g mixed greens
+- 30g cherry tomatoes
+- 5g balsamic vinaigrette
+Instructions:
+1. Toss all ingredients.
+2. Serve fresh.
+Nutrition: 450 calories, 3g sugar, 30g protein, 15g fat
+
+### Goal: around 300 calories, high fiber, low sugar
+### Recipe: Title: Hummus and Veggies
+Ingredients:
+- 50g hummus
+- 50g cucumber sticks
+- 50g carrot sticks
+Instructions:
+1. Serve hummus with veggies for dipping.
+Nutrition: 300 calories, 4g sugar, 10g protein, 15g fat
+
+### Goal: around 400 calories, low sugar, high protein
+### Recipe: Title: Shrimp and Avocado Salad
+Ingredients:
+- 100g shrimp
+- 50g avocado
+- 30g mixed greens
+Instructions:
+1. Cook shrimp.
+2. Toss with avocado and greens.
+Nutrition: 400 calories, 2g sugar, 30g protein, 12g fat
+
+### Goal: around 500 calories, moderate carbs, low fat
+### Recipe: Title: Quinoa and Black Bean Bowl
+Ingredients:
+- 100g cooked quinoa
+- 100g black beans
+- 50g corn
+Instructions:
+1. Mix quinoa with beans and corn.
+2. Serve warm.
+Nutrition: 500 calories, 5g sugar, 20g protein, 8g fat
+
+### Goal: around 350 calories, high fiber, low fat
+### Recipe: Title: Spinach and Feta Stuffed Peppers
+Ingredients:
+- 100g bell peppers
+- 50g spinach
+- 30g feta cheese
+Instructions:
+1. Stuff peppers with spinach and feta.
+2. Bake until tender.
+Nutrition: 350 calories, 3g sugar, 15g protein, 10g fat
+
+### Goal: around 450 calories, high protein, low sugar
+### Recipe: Title: Beef and Vegetable Stir-fry
+Ingredients:
+- 120g lean beef
+- 50g broccoli
+- 50g bell peppers
+Instructions:
+1. Stir-fry beef and vegetables.
+2. Serve hot.
+Nutrition: 450 calories, 2g sugar, 35g protein, 20g fat
+
+### Goal: around 300 calories, low carb, high fat
+### Recipe: Title: Cheese and Nut Snack
+Ingredients:
+- 50g cheese
+- 30g mixed nuts
+Instructions:
+1. Serve cheese with nuts.
+Nutrition: 300 calories, 1g sugar, 15g protein, 25g fat
+
+### Goal: around 400 calories, moderate carbs, high protein
+### Recipe: Title: Chicken and Vegetable Skewers
+Ingredients:
+- 100g chicken breast
+- 50g zucchini
+- 50g bell peppers
+Instructions:
+1. Skewer chicken and vegetables.
+2. Grill until cooked.
+Nutrition: 400 calories, 3g sugar, 30g protein, 12g fat
+
+### Goal: around 500 calories, high fiber, low fat
+### Recipe: Title: Chickpea and Spinach Curry
+Ingredients:
+- 100g chickpeas
+- 50g spinach
+- 30g tomatoes
+Instructions:
+1. Cook chickpeas with spinach and tomatoes.
+2. Serve warm.
+Nutrition: 500 calories, 4g sugar, 20g protein, 8g fat
+
+### Goal: around 350 calories, very low sugar, moderate fat
+### Recipe: Title: Greek Yogurt with Nuts
+Ingredients:
+- 200g Greek yogurt
+- 30g mixed nuts
+Instructions:
+1. Serve yogurt topped with nuts.
+Nutrition: 350 calories, 5g sugar, 20g protein, 15g fat
+
+### Goal: around 450 calories, balanced macros
+### Recipe: Title: Turkey and Vegetable Stir-fry
+Ingredients:
+- 120g ground turkey
+- 50g broccoli
+- 50g bell peppers
+Instructions:
+1. Stir-fry turkey and vegetables.
+2. Serve hot.
+Nutrition: 450 calories, 3g sugar, 35g protein, 18g fat
+
+### Goal: around 300 calories, high fiber, low sugar
+### Recipe: Title: Cucumber and Hummus Snack
+Ingredients:
+- 100g cucumber
+- 50g hummus
+Instructions:
+1. Serve cucumber slices with hummus.
+Nutrition: 300 calories, 2g sugar, 10g protein, 15g fat
+
+### Goal: around 400 calories, low sugar, high protein
+### Recipe: Title: Grilled Salmon Salad
+Ingredients:
+- 120g salmon
+- 50g mixed greens
+- 30g cherry tomatoes
+Instructions:
+1. Grill salmon and serve over greens.
+Nutrition: 400 calories, 3g sugar, 35g protein, 12g fat
+
+### Goal: around 500 calories, moderate carbs, low fat
+### Recipe: Title: Quinoa and Vegetable Bowl
+Ingredients:
+- 100g cooked quinoa
+- 100g mixed vegetables
+Instructions:
+1. Mix quinoa with vegetables.
+2. Serve warm.
+Nutrition: 500 calories, 4g sugar, 20g protein, 8g fat
+
+### Goal: around 350 calories, high fiber, low fat
+### Recipe: Title: Spinach and Feta Omelet
+Ingredients:
+- 2 eggs
+- 50g spinach
+- 30g feta cheese
+Instructions:
+1. Cook eggs with spinach and feta.
+2. Serve hot.
+Nutrition: 350 calories, 2g sugar, 20g protein, 10g fat
+
+### Goal: around 450 calories, high protein, low sugar
+### Recipe: Title: Chicken and Broccoli Stir-fry
+Ingredients:
+- 120g chicken breast
+- 50g broccoli
+- 5g soy sauce
+Instructions:
+1. Stir-fry chicken and broccoli with soy sauce.
+2. Serve hot.
+Nutrition: 450 calories, 2g sugar, 35g protein, 20g fat
+
+### Goal: around 300 calories, low carb, high fat
+### Recipe: Title: Cheese and Avocado Snack
+Ingredients:
+50g cheese
+- 50g avocado
+Instructions:
+1. Serve cheese with avocado slices.
+Nutrition: 300 calories, 1g sugar, 15g protein, 25g fat
+
+### Goal: around 400 calories, moderate carbs, high protein
+### Recipe: Title: Chicken and Vegetable Salad
+Ingredients:
+- 100g grilled chicken
+- 50g mixed greens
+- 30g cherry tomatoes
+Instructions:
+1. Toss chicken with greens and tomatoes.
+2. Serve fresh.
+Nutrition: 400 calories, 3g sugar, 30g protein, 12g fat
+
+### Goal: around 500 calories, high fiber, low fat
+### Recipe: Title: Lentil and Vegetable Stew
+Ingredients:
+- 100g lentils
+- 50g carrots
+- 50g zucchini
+Instructions:
+1. Cook lentils with vegetables.
+2. Serve warm.
+Nutrition: 500 calories, 5g sugar, 20g protein, 8g fat
+
+### Goal: around 350 calories, very low sugar, moderate fat
+### Recipe: Title: Greek Yogurt with Berries
+Ingredients:
+- 200g Greek yogurt
+- 50g mixed berries
+Instructions:
+1. Serve yogurt topped with berries.
+Nutrition: 350 calories, 4g sugar, 20g protein, 15g fat
